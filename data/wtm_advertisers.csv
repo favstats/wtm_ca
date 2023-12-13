@@ -95,6 +95,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 690a94c5-b8f7-4ee9-aecf-09de94e5b29d,Phil Klapwyk for Pitt Meadows-Maple Ridge,2022-08-16T15:28:22.632Z,c78a23a5-17bd-43ea-8ca5-c923353dd808,NDP,true,true,Canada,ca,107556378082166,Phil Klapwyk for Pitt Meadows-Maple Ridge,Facebook
 6923d97f-942c-45f5-9883-673a3ab7c404,Toronto Centre NDP,2022-08-16T15:28:05.555Z,66c2ab08-8413-44cd-8a2d-f5fb2834066b,NDP,true,true,Canada,ca,230062033687093,Toronto Centre NDP,Facebook
 698f161e-a887-4f5b-a910-66550a97e2fc,Janet Eremenko,2023-04-24T06:51:30.159Z,75dccb73-81bb-4acf-9a6d-07850089796c,NDP,true,true,Canada,ca,377491529289588,Janet Eremenko,Facebook
+699202b7-4b2f-4844-862c-b5ba7893ea78,Kyle Kasawski NDP,2023-12-05T05:05:33.438Z,d48b56f6-ca11-4591-b912-405856cb0960,NDP,true,true,Canada,ca,114798984537691,Kyle Kasawski NDP,Facebook
 6adf0783-cc77-49d8-8e67-44018f5d36a1,Franklin Gertler for NDG-Westmount,2022-08-16T15:24:45.499Z,0cb569dc-12b5-41bb-b0cf-c7107511c85c,NDP,true,true,Canada,ca,437421337093153,Franklin Gertler for NDG-Westmount,Facebook
 6b1c8ecc-f325-4526-a27d-2f1c9dbe158a,Richard Cannings,2022-08-16T15:28:25.385Z,57ea6d80-0899-4d61-8937-dd6d5b139506,NDP,true,true,Canada,ca,256137977841670,Richard Cannings,Facebook
 6bba6ada-4f9e-46f9-b6dd-06530677e0bd,"Bob D'Eith, Maple Ridge-Mission",2023-02-22T10:51:49.910Z,5219a1dc-ccef-41de-a2ba-29faaff637df,NDP,true,true,Canada,ca,1421785601451213,"Bob D'Eith, Maple Ridge-Mission",Facebook
@@ -171,6 +172,7 @@ cf133c02-bdb6-4a4f-b3a8-979be3c7204e,Newfoundland New Democratic Party,2022-08-1
 cf147e59-94e4-4526-9058-a63979737bc5,Wab Kinew,2022-08-16T15:24:40.878Z,b8220460-27f1-45d9-93f7-cd6fde8512b7,NDP,true,true,Canada,ca,38458276617,Wab Kinew,Facebook
 d3e73789-1b14-4baa-9fb5-f9af1e5792cd,Peter Julian,2022-08-16T15:24:44.341Z,d7a51a0a-9784-4747-abfa-aa682e6eb10d,NDP,true,true,Canada,ca,7586973623,Peter Julian,Facebook
 d46cded1-f3a6-4514-a6e7-5f995107b5cc,Janet Moulton,2022-08-16T15:28:09.006Z,087f2472-6659-4d1b-8d12-b26be22843fd,NDP,true,true,Canada,ca,784420791736619,Janet Moulton,Facebook
+d56235a7-b96e-4f31-8888-3bfe1944301d,Huron Bruce NDP,2023-11-08T05:05:25.237Z,2bf945a9-271c-493b-a75f-3a8350e8ba3e,NDP,true,true,Canada,ca,220640417958252,Huron Bruce NDP,Facebook
 d63d7204-73eb-4ea3-8c88-dcca1409279c,Caet Moir - NDP Candidate for Hants West,2022-08-16T15:28:04.640Z,f280c6cc-8d4a-4c9f-b4be-f7de44e7f7db,NDP,true,true,Canada,ca,110817901225287,Caet Moir - NDP Candidate for Hants West,Facebook
 d759c55d-2126-4a43-8583-edd0bbcf55e2,Avneet Johal - Surrey-Newton NDP,2022-08-16T15:28:23.984Z,73dc355b-721c-4890-84ea-321102c312a3,NDP,true,true,Canada,ca,109991634735723,Avneet Johal - Surrey-Newton NDP,Facebook
 d8d67e85-a8b5-4995-8b3d-1ff3f0ee5cfa,Fabiola Ngamaleu Teumeni - Candidate du NPD dans Dorval/Lachine/LaSalle,2022-08-16T15:28:26.285Z,df05b50e-9156-41ac-b061-77b214077f65,NDP,true,true,Canada,ca,108895904740384,Fabiola Ngamaleu Teumeni - Candidate du NPD dans Dorval/Lachine/LaSalle,Facebook
@@ -235,6 +237,7 @@ fe18ff9f-c5ac-4d0f-b639-b0e60bf3f3f2,Wayne Stetski,2022-08-16T15:24:43.390Z,517f
 10839f40-7e00-42f6-8a80-5568bebb3ca3,Jeremy Roberts,2022-08-16T15:28:10.545Z,18baa6d8-e8d1-4155-8318-9e8c4b79bcf8,Con,true,true,Canada,ca,2019540774937113,Jeremy Roberts,Facebook
 10dfe404-2a1c-4aa6-9d71-aa8a8b2f727a,MP David Yurdiga,2022-08-16T15:28:07.164Z,bad16d22-09ac-411d-bddf-85734d83648c,Con,true,true,Canada,ca,247242498819594,MP David Yurdiga,Facebook
 11c2a804-00d4-48fc-9fa8-e68953520d79,"David Sweet, M.P.",2022-08-16T15:24:46.687Z,4935d81b-1677-4e3e-a120-cf83a8b8e8ba,Con,true,true,Canada,ca,14043761823,"David Sweet, M.P.",Facebook
+11ecfc9f-fc96-4cdc-986a-fb756b734f3d,Conservateurs UOttawa Conservatives,2023-11-28T06:15:10.835Z,5254ec51-1333-41d0-9ea1-b8aa43d84eb5,Con,true,true,Canada,ca,153863924679282,Conservateurs UOttawa Conservatives,Facebook
 12e10920-cbce-401d-9da0-d18bb6ee55e3,Les Jickling for North Vancouver,2022-08-16T15:28:06.746Z,490e3f4b-4207-4e1f-ae60-457ba9682065,Con,true,true,Canada,ca,103617815159146,Les Jickling for North Vancouver,Facebook
 13718187-e494-4f3e-a175-1fd5041890f1,Jasraj Singh Hallan,2022-08-16T15:28:09.974Z,d902573a-9086-4f3e-8d59-059e4720016b,Con,true,true,Canada,ca,116207779747238,Jasraj Singh Hallan,Facebook
 16606c15-2088-49ae-93a3-541bb4a895f4,Bob Zimmer,2022-08-16T15:28:07.526Z,f326c58b-4652-4b92-b074-d1904625569e,Con,true,true,Canada,ca,885367448177343,Bob Zimmer,Facebook
@@ -385,6 +388,8 @@ fe18ff9f-c5ac-4d0f-b639-b0e60bf3f3f2,Wayne Stetski,2022-08-16T15:24:43.390Z,517f
 83e1e2c3-e2d6-41be-81d5-db35f52b380c,Harold Kim for Newmarket—Aurora,2022-08-16T15:28:22.926Z,84744c8b-991d-4a67-8e2d-c37c640cc98f,Con,true,true,Canada,ca,1269141063222779,Harold Kim for Newmarket—Aurora,Facebook
 848e3263-c802-41cc-ae78-b56c3b54bc78,Naval Bajaj,2022-08-16T15:28:05.952Z,e5996a79-129c-46d5-8e25-0c56dfdf6fcd,Con,true,true,Canada,ca,665199226926185,Naval Bajaj,Facebook
 850b05d3-6705-4c5c-80d3-53f12f6be7ce,Brad Redekopp,2022-08-16T15:28:08.612Z,2dae61ae-b5aa-4fea-95f6-7e1147d9fb2e,Con,true,true,Canada,ca,1968451243484787,Brad Redekopp,Facebook
+851df4fa-79cb-44d0-85f8-7364701c72de,David McKenzie for Calgary Signal Hill Conservative Nomination,2023-11-04T05:05:24.862Z,3c6abcf3-88e5-4899-bebb-3eaaad73d9ff,Con,true,true,Canada,ca,134159379788438,David McKenzie for Calgary Signal Hill Conservative Nomination,Facebook
+857bace7-c141-462f-949f-9dccae2e144a,PCC / CPC - Madawaska-Restigouche,2023-08-21T05:06:16.009Z,a2666d51-4dc0-4d63-8bea-e5fc242da393,Con,true,true,Canada,ca,103456062719149,PCC / CPC - Madawaska-Restigouche,Facebook
 85bab18e-7f27-436c-b01c-51d2cf03917e,Karina Sanford PC Candidate for Cole Harbour-Dartmouth,2022-08-16T15:28:05.384Z,677b68e9-0c28-46ce-b3c6-93e356361669,Con,true,true,Canada,ca,107394844535846,Karina Sanford PC Candidate for Cole Harbour-Dartmouth,Facebook
 873365ac-1ef5-4e50-b9f8-4205d65f0811,Krystina Waler,2022-08-16T15:28:07.651Z,a21c390c-48f0-419d-913a-501f79c1b9a1,Con,true,true,Canada,ca,540733229690325,Krystina Waler,Facebook
 883def64-d749-47b2-9cc9-29ebfc31bcc1,Chilliwack-Kent Conservative Party of BC,2023-05-01T06:51:15.518Z,4e2d5ede-a9d8-4ca1-83cc-2a52105f461f,Con,true,true,Canada,ca,110002942006439,Chilliwack-Kent Conservative Party of BC,Facebook
@@ -431,6 +436,7 @@ aff3b0f2-76a1-42f5-8d99-51bba1b47319,Patrick Brown,2023-02-07T15:06:03.668Z,bc33
 b0026a0d-b546-4677-930a-1923b596a921,Colin Carrie,2022-08-16T15:28:06.665Z,7839ccc5-ff65-4b27-836e-7b0e18878e21,Con,true,true,Canada,ca,1589045731340171,Colin Carrie,Facebook
 b0626be7-1eff-4e83-a516-e5987edfd601,Chris Palmer for Kings West MLA,2022-08-16T15:28:04.537Z,57b77ba0-79fb-4d82-8d88-3db520320669,Con,true,true,Canada,ca,1828755600698292,Chris Palmer for Kings West MLA,Facebook
 b0d7c077-9b65-4cbd-9ee3-e14c8acea0dd,Susan Corkum-Greek,2022-08-16T15:28:07.715Z,f5849d9c-d2cc-4fe2-96c9-921b115d1562,Con,true,true,Canada,ca,103026154976650,Susan Corkum-Greek,Facebook
+b1875c9b-63f5-462e-a6ce-bc0ee9806482,Skeena-Bulkley Valley Conservative Association,2023-12-06T05:05:29.007Z,34c34cc4-2051-45d1-91d2-70db36484f73,Con,true,true,Canada,ca,105153478012702,Skeena-Bulkley Valley Conservative Association,Facebook
 b1aed262-180b-4452-bcb5-df05435e7b6f,"Terry Roberts, Candidat Conservateur/Conservative Candidate",2022-08-16T15:28:24.969Z,d4951945-943d-4274-800d-063c8c917cf5,Con,true,true,Canada,ca,108372538074212,"Terry Roberts, Candidat Conservateur/Conservative Candidate",Facebook
 b2286c72-3638-4ed7-ac8d-bc266e05dbe2,"Marilyn Gladu, Sarnia-Lambton",2022-08-16T15:28:08.893Z,f05256d7-d535-4d6d-be6b-e42aea0be49f,Con,true,true,Canada,ca,383828221792015,"Marilyn Gladu, Sarnia-Lambton",Facebook
 b3080d7c-e691-4716-b727-cc48d60e883c,Raman Athwal for Edmonton-Mill Woods UCP,2023-04-17T08:16:12.451Z,8b8e7ab1-f40c-4a11-ae5b-39db8d2d995d,Con,true,true,Canada,ca,108772958752433,Raman Athwal for Edmonton-Mill Woods UCP,Facebook
